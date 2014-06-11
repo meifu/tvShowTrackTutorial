@@ -14,7 +14,11 @@
     "debug": "~0.7.4",
     "jade": "~1.3.0",
     "mongoose": "*",
-    "bcryptjs": "*"
+    "bcryptjs": "*",
+    "async": "*",
+    "request": "*",
+    "xml2js": "*",
+    "lodash": "*"
   },
   "devDependencies": {
     "gulp": "^3.6.3",
